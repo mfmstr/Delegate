@@ -1,0 +1,13 @@
+// Transactions are not in connection with each other. 
+
+Your balance is increased by 150 GEL. Current balance is: 650
+Withdrown 200 GEL from your account. Current balance is: 450
+
+Your balance is increased by 1500 GEL. Current balance is: 2000
+Withdrown 800 GEL from your account. Current balance is: 1200
+
+Your balance is increased by 3000 GEL. Current balance is: 3500
+Withdrown 100 GEL from your account. Current balance is: 3400
+
+Your balance is increased by 3000 GEL. Current balance is: 3500
+Withdrown 100 GEL from your account. Current balance is: 3400
